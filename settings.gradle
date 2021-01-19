@@ -1,0 +1,4 @@
+include ':file-exhibits-loader'
+include ':model'
+include ':application'
+rootProject.name = "UranCompanyTestTask"
